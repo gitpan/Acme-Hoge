@@ -27,11 +27,11 @@ Acme::Hoge - Replace "foo" in output with "hoge".
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
@@ -58,7 +58,7 @@ There is no function.
 
 =head1 AUTHOR
 
-Hogeist, C<< <mahito at cpan.org> >>
+Hogeist, C<< <mahito at cpan.org> >>, L<http://www.ornithopter.jp/>
 
 =head1 BUGS
 
@@ -97,6 +97,10 @@ L<http://search.cpan.org/dist/Acme-Hoge>
 =back
 
 =head1 ACKNOWLEDGEMENTS
+
+=head1 SEE ALSO
+
+Output::Rewrite
 
 =head1 COPYRIGHT & LICENSE
 
